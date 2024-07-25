@@ -1,0 +1,48 @@
+.quarter-page {
+    width: 25%; 
+    height: 100vh; 
+    background-color: rgb(72, 74, 74); 
+    float: left;
+    position: fixed;
+    left: 0;
+}
+
+.header {
+    width: 100%;
+    padding: 20px;
+    font-size: 24px;
+    background-color: #f0f0f0; 
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: bisque;
+}
+
+.subheading {
+    margin-bottom: 0;
+}
+
+.colored-section {
+    background-color:  rgba(169, 169, 169, 1); 
+    padding: 10px;
+    margin-top: 30;
+    color: black;
+    font-weight: bold;
+}
+
+.bold-line {
+    border: none;
+    border-bottom: 3px solid black; 
+    margin: 0; 
+    width: 100%; 
+
+.content {
+    
+    box-sizing: border-box;
+    padding: 20mm;
+    border: 10px solid rgba(235, 19, 116, 0.1);
+}
+
